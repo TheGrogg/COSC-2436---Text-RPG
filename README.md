@@ -12,9 +12,8 @@ Programming Presentation - https://www.youtube.com/watch?v=iMn_dXv513o
 
 (My Major is game dev and below is the stuff I am working on for my final portfolio piece which inspired the Text RPG, its a c++ project in Unreal Engine 5. just in case you're interested in taking a look)
 
-Awakening Game Concept Trailer - https://studio.youtube.com/video/3Sl-XMGXnqs/edit
-
-Awakening C++ Unreal Engine 5 Project Prototype - https://studio.youtube.com/video/EwyXfthgZ9c/edit
+Awakening Game Concept Trailer - https://youtu.be/3Sl-XMGXnqs
+Awakening C++ Unreal Engine 5 Project Prototype - https://www.youtube.com/watch?v=EwyXfthgZ9c
 
 ---
 
